@@ -34,8 +34,6 @@ Data bersumber dari 4 tabel utama:
 
 ---
 
----
-
 ## 📁 Struktur Repository
 
 ```bash
